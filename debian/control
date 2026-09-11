@@ -1,12 +1,12 @@
 Source: icons-feather
 Section: graphics
 Priority: optional
-Maintainer: Lenik <icons-feather@bodz.net>
+Maintainer: Lenik (谢继雷) <lenik@bodz.net>
 Build-Depends: debhelper-compat (= 13), meson, ninja-build, python3, iconlibutils
 Standards-Version: 4.6.2
 Homepage: https://feathericons.com/
-Vcs-Browser: https://github.com/lenik/pkg-icons-feather
-Vcs-Git: https://github.com/lenik/pkg-icons-feather.git
+Vcs-Browser: https://github.com/lenik/icons-feather
+Vcs-Git: https://github.com/lenik/icons-feather.git
 Rules-Requires-Root: no
 
 Package: icons-feather
@@ -17,4 +17,4 @@ Description: Feather Icons
  Feather Icons
  .
  Provides icon assets under /usr/share/icons-feather, a preview index, and a
- launcher `icons-feather` (`iconlibutils -l feather`).
+ launcher `icons-feather` (`iconlib -l feather`).

@@ -1,4 +1,4 @@
-# Installed by icons-feather — discovered as /usr/share/iconlibutils/library/feather/
+# Installed by icons-feather as /usr/share/iconlibutils/library/feather
 name=feather
 type=auto
 path=/usr/share/icons-feather
@@ -7,3 +7,5 @@ license=MIT
 homepage=https://feathericons.com/
 description=Feather Icons
 package=icons-feather
+icons_root=orig/icons
+faiss_index=/usr/share/icons-feather
