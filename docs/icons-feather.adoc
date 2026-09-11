@@ -1,0 +1,34 @@
+= icons-feather(1)
+{project-author} <{project-email}>
+v{project-version}, {project-year}
+:doctype: manpage
+:manmanual: User Commands
+:mansource: icons-feather
+:man-linkstyle: blue R <>
+:nofooter:
+
+== Name
+
+icons-feather - Feather Icons
+
+== Synopsis
+
+*icons-feather* [_OPTION_]...
+
+== Description
+
+Feather Icons.
+
+== Options
+
+*-h, --help*::
+  Show a short usage summary and exit.
+
+== Author
+
+Written by {project-author} <{project-email}>.
+
+== Copyright
+
+Copyright (C) {project-year}.
+License AGPL-3.0-or-later.
