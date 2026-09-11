@@ -1,0 +1,11 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: feather
+Source: https://github.com/feathericons/feather.git
+
+Files: *
+Copyright: Upstream authors
+License: MIT
+
+Files: debian/*
+Copyright: 2026 Lenik <feather@bodz.net>
+License: MIT
