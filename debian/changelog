@@ -1,3 +1,13 @@
+icons-feather (1.0.2) unstable; urgency=medium
+
+  * Align packaging/Meson/man pages to current zephyr style (zfr ize).
+  * update debian/control: Build-Depends +asciidoctor, Depends: bash-shlib
+  * update debian/rules: override_dh_autoreconf
+  * update meson.build: replace hardcoded project version, project_author/email/year, find_program asciidoctor, prefix/bindir/datadir/mandir/pkgdocdir, man foreach (1 puffs), run_target look, install LICENSE/README, install bash-completion
+  * update meson.build: man foreach (1 puffs)
+
+ -- Lenik (谢继雷) <lenik@bodz.net>  Sat, 12 Sep 2026 03:34:30 +0800
+
 icons-feather (1.0.1) unstable; urgency=medium
 
   * Align packaging/Meson/man pages to current zephyr style (zfr ize).
